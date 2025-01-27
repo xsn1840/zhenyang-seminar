@@ -14,6 +14,9 @@ seminar/
 └─ css/
     └─ common.css
 ```
+赵丹
+许少宁
+许珈铭
 
 # 备注
 本仓库是书籍《和Wakaba酱一起学Git》练习用仓库。
